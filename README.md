@@ -6,7 +6,6 @@ This guide provides step-by-step instructions on setting up various components o
 1. Open your browser and go to [osTicket Login](http://localhost/osTicket/scp/login.php)
 2. Log in using your credentials.
 3. Navigate to the **Admin Panel**.
-
 ![login](https://github.com/user-attachments/assets/bd35ef85-21b1-4fa2-82bc-ef5d34f81be7)
 
 
