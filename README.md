@@ -20,6 +20,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![add role](https://github.com/user-attachments/assets/ac717218-3ea3-40c5-a0a2-ad4ddeffa76f)
 
 ## Add New Department
+### Departments help you manage and route tickets efficiently by assigning them to the appropriate team or individual who specializes in that particular area
 1. Navigate to **Departments**.
 2. Click on **Add New Department**.
 3. Name the department **System Admin**.
