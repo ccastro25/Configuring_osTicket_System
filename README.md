@@ -36,6 +36,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![createTeam](https://github.com/user-attachments/assets/ea2235d5-020c-4b43-b21d-ef019b535f25)
 
 ## Set User Registration Requirements
+### Users must log in or create an account to submit a ticket
 1. Go to the **Settings** tab.
 2. Select **Users**.
 3. Ensure that the option **Require registration and login to create tickets** is enabled.
