@@ -68,6 +68,7 @@ This guide provides step-by-step instructions on setting up various components o
 6. Uncheck the option to **Send Account Activation Email** to set a temporary password.
 7. Under **Password Confirmation**, choose whether to require a password change after the first login or to prevent the user from changing the password.
 8. Click **Create Account**.
+![add user'](https://github.com/user-attachments/assets/1af56f4a-8671-4525-8f4e-9b3d3b5f0e00)
 
 ## Add New Help Topic
 1. Return to the **Admin Panel**.
