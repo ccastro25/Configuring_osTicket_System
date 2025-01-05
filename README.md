@@ -10,6 +10,7 @@ This guide provides instructions on setting up various components of osTicket.
 
 
 ## Create New Role
+  ### Roles determine what actions users can perform within the system
 1. Go to the **Agents** tab.
 2. Select **Roles**.
 3. Click on **Add New Role**.
