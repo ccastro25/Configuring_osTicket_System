@@ -7,8 +7,7 @@ This guide provides step-by-step instructions on setting up various components o
 2. Log in using your credentials.
 3. Navigate to the **Admin Panel**.
 
-
-https://github.com/user-attachments/assets/0f1643c7-0258-4c44-b9bc-7bc63ae2d41c
+![login](https://github.com/user-attachments/assets/bd35ef85-21b1-4fa2-82bc-ef5d34f81be7)
 
 
 ## Create New Role
