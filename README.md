@@ -28,6 +28,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![create dept](https://github.com/user-attachments/assets/2db24ec0-05ea-4ec0-b9cf-18c19649fb91)
 
 ## Create New Team
+### Teams allow you to organize agents based on their skills, responsibilities, or areas of expertise
 1. Select the **Teams** tab.
 2. Click **Add New Team**.
 3. Name the team **Level II Support**.
