@@ -16,6 +16,7 @@ This guide provides step-by-step instructions on setting up various components o
 4. Name the new role **Administrator**.
 5. Assign all available permissions to this role to ensure it has full administrative access.
 6. Click **Create** to save the role.
+![add role](https://github.com/user-attachments/assets/ac717218-3ea3-40c5-a0a2-ad4ddeffa76f)
 
 ## Add New Department
 1. Navigate to **Departments**.
