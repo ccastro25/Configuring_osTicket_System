@@ -3,9 +3,13 @@
 This guide provides step-by-step instructions on setting up various components of osTicket.
 
 ## Login and Access Admin Panel
-1. Open your browser and go to [osTicket Login](http://localhost/osTicket/index.php).
+1. Open your browser and go to [osTicket Login][(http://localhost/osTicket/scp/login.php)]
 2. Log in using your credentials.
 3. Navigate to the **Admin Panel**.
+
+
+https://github.com/user-attachments/assets/0f1643c7-0258-4c44-b9bc-7bc63ae2d41c
+
 
 ## Create New Role
 1. Go to the **Agents** tab.
