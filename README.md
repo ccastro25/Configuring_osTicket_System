@@ -87,5 +87,6 @@ This guide provides step-by-step instructions on setting up various components o
 4. Set the **Grace Period**.
 5. Choose the **Schedule**.
 6. Lastly, click **Add Plan** to save the SLA plan.
+![SLA](https://github.com/user-attachments/assets/7368d8cd-3e3b-4998-9926-c93cc9c07b53)
 
 Feel free to reach out if you need further details or clarification on any step! 😊
