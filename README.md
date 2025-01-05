@@ -88,6 +88,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![helpTopic](https://github.com/user-attachments/assets/7e3b7a0e-00f8-42c7-98b4-cf2be0513c1e)
 
 ## Create SLA Plan
+### In osTicket, an SLA, or Service Level Agreement, is a set of policies that define the expected response and resolution times for tickets based on their priority, help topic, or department
 1. Under the **Manage** tab, select **SLA**.
 2. Click **Add New SLA Plan**.
 3. Provide a **Name** for the SLA plan.
