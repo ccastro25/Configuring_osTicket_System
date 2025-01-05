@@ -23,6 +23,7 @@ This guide provides step-by-step instructions on setting up various components o
 2. Click on **Add New Department**.
 3. Name the department **System Admin**.
 4. Click **Create Department** to finalize.
+![create dept](https://github.com/user-attachments/assets/2db24ec0-05ea-4ec0-b9cf-18c19649fb91)
 
 ## Create New Team
 1. Select the **Teams** tab.
