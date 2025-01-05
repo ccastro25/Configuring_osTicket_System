@@ -30,6 +30,7 @@ This guide provides step-by-step instructions on setting up various components o
 2. Click **Add New Team**.
 3. Name the team **Level II Support**.
 4. Click **Create Team** to save.
+![createTeam](https://github.com/user-attachments/assets/ea2235d5-020c-4b43-b21d-ef019b535f25)
 
 ## Set User Registration Requirements
 1. Go to the **Settings** tab.
