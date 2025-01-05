@@ -77,6 +77,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![add user'](https://github.com/user-attachments/assets/1af56f4a-8671-4525-8f4e-9b3d3b5f0e00)
 
 ## Add New Help Topic
+### Help topics provide a structured way for users to classify their inquiries and for agents to manage tickets efficiently.
 1. Return to the **Admin Panel**.
 2. Navigate to the **Manage** tab.
 3. Select **Help Topics**.
