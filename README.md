@@ -1,6 +1,6 @@
 # osTicket Setup Guide
 
-This guide provides step-by-step instructions on setting up various components of osTicket.
+This guide provides instructions on setting up various components of osTicket.
 
 ## Login and Access Admin Panel
 1. Open your browser and go to [osTicket Login](http://localhost/osTicket/scp/login.php)
