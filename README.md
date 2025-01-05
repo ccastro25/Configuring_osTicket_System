@@ -36,6 +36,7 @@ This guide provides step-by-step instructions on setting up various components o
 1. Go to the **Settings** tab.
 2. Select **Users**.
 3. Ensure that the option **Require registration and login to create tickets** is enabled.
+![user registration](https://github.com/user-attachments/assets/a2b1a39b-07d2-47bb-8c6a-f5807cfd60d0)
 
 ## Add New Agent
 1. Go to the **Agents** tab.
