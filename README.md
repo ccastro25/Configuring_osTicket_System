@@ -57,6 +57,7 @@ This guide provides step-by-step instructions on setting up various components o
 7. In the **Permissions** tab, configure specific permissions for the agent.
 8. In the **Teams** tab, assign the agent to receive notifications from other teams as needed.
 9. Once satisfied, click **Create** to save the agent's profile.
+![add agent](https://github.com/user-attachments/assets/fe02e3ee-e77e-4eff-a886-1ea1c5bfd3e7)
 
 ## Add New User
 1. Select the **Agent Panel** next to your name.
