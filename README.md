@@ -43,6 +43,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![user registration](https://github.com/user-attachments/assets/a2b1a39b-07d2-47bb-8c6a-f5807cfd60d0)
 
 ## Add New Agent
+### Agents are essentially the frontline support staff who handle customer inquiries, troubleshoot issues, and ensure that tickets are resolved efficiently
 1. Go to the **Agents** tab.
 2. Select **Add New Agent**.
 3. Fill in the agent’s details:
