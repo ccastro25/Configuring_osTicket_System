@@ -78,6 +78,7 @@ This guide provides step-by-step instructions on setting up various components o
 5. Name the help topic.
 6. Optionally, add internal notes.
 7. Click **Create** to save the help topic.
+![helpTopic](https://github.com/user-attachments/assets/7e3b7a0e-00f8-42c7-98b4-cf2be0513c1e)
 
 ## Create SLA Plan
 1. Under the **Manage** tab, select **SLA**.
