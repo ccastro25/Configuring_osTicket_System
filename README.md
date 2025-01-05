@@ -65,6 +65,7 @@ This guide provides instructions on setting up various components of osTicket.
 ![add agent](https://github.com/user-attachments/assets/fe02e3ee-e77e-4eff-a886-1ea1c5bfd3e7)
 
 ## Add New User
+### Users are typically the customers or clients seeking assistance with issues or inquiries
 1. Select the **Agent Panel** next to your name.
 2. Go to the **Users** tab.
 3. Click **Add New User**.
