@@ -100,3 +100,4 @@ This guide provides instructions on setting up various components of osTicket.
 ![SLA](https://github.com/user-attachments/assets/7368d8cd-3e3b-4998-9926-c93cc9c07b53)
 
 Feel free to reach out if you need further details or clarification on any step! 😊
+##With everything set up, click [here](https://github.com/ccastro25/Osticket_WorkFlow/blob/main/README.md) to view the osTicket workflow
