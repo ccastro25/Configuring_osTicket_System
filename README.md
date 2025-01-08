@@ -2,6 +2,8 @@
 
 This guide provides instructions on setting up various components of osTicket.
 
+##If osTicket isn't installed yet, click [here](https://github.com/ccastro25/Setting_up_osTicket) to get started. Afterward, come back and follow these steps.
+
 ## Login and Access Admin Panel
 1. Open your browser and go to [osTicket Login](http://localhost/osTicket/scp/login.php)
 2. Log in using your credentials.
